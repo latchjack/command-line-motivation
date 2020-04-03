@@ -101,7 +101,7 @@ quotes = [
   "\"Change your life today. Don’t gamble on the future, act now, without delay.\" - Simone de Beauvoir",
   "\"You just can’t beat the person who never gives up.\" - Babe Ruth",
   "\"Start where you are. Use what you have. Do what you can.\" - Arthur Ashe",
-  "\"Why should you continue going after your dreams? Because seeing the look on the faces of the people who said you couldn’t… will be priceless.\" - Kevin Ngo",
+  "\"Why should you continue going after your dreams? Because seeing the look on the faces of the people who said you couldn’t… will be priceless.\" - Kevin Ngo"
 ]
 
 # Uncomment the line below for the number of quotes when you run this file in the terminal
